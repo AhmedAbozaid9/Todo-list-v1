@@ -1,0 +1,19 @@
+/*this is just for the js code*/
+.completed{
+    text-decoration: line-through;
+    
+}
+/*styling the page*/
+body{
+    text-align: center;
+}
+ul,button{
+    list-style-type: none;
+    font-size: 1.5rem;
+}
+ul li{
+    margin-bottom: 16px;
+}
+h2{
+    display: inline-block;
+}
